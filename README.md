@@ -1,5 +1,6 @@
 This is my first SQL assignment while learning at luxdev.Luxdev is a data bootcamp that specializes in teaching anything data science, data engineering and Artificial Intelligence.
 Below is the table creation script to be used
+
 create schema luxsql;
 SET search_path TO luxsql;
 
